@@ -1,4 +1,4 @@
-# Template Data Science ML/DL
+# Template Data Science ML
 
 ## Tools used in this project
 * [hydra](https://hydra.cc/): Manage configuration files - [article](https://mathdatasimplified.com/stop-hard-coding-in-a-data-science-project-use-configuration-files-instead/)
